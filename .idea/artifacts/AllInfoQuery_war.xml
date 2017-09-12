@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="AllInfoQuery:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="AllInfoQuery.war">
+      <element id="artifact" artifact-name="AllInfoQuery:war exploded" />
+    </root>
+  </artifact>
+</component>
